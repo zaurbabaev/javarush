@@ -1,4 +1,4 @@
-package az.babayev.javarush.exercise;
+package az.babayev.javarush.exercise.level1;
 
 /*
 У вас есть 15 призов, которые нужно поделить между 4 командами. Создайте две переменные типа int: prizes со значением 15 и teams со значением 4.

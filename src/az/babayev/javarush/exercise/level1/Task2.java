@@ -1,4 +1,4 @@
-package az.babayev.javarush.exercise;
+package az.babayev.javarush.exercise.level1;
 
 /*
 Вы записываете результаты бросков игральных костей. Создайте три переменные типа int: firstRoll, secondRoll и totalScore.

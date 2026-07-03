@@ -1,4 +1,4 @@
-package az.babayev.javarush.exercise;
+package az.babayev.javarush.exercise.level1;
 
 /*
 Представьте, что вы создаёте игру и хотите задать возраст главного героя.
