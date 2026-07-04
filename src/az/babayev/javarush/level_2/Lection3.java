@@ -26,7 +26,7 @@ public class Lection3 {
         int num2 = Integer.parseInt("321" + 0);
         System.out.println(num2); // 3210
 
-        
+
 
     }
 }
