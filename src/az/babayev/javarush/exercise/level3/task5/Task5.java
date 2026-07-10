@@ -2,6 +2,11 @@ package az.babayev.javarush.exercise.level3.task5;
 
 import java.util.Scanner;
 
+/*
+Вы пишете программу-фейсконтроль для входа на вечеринку. Попросите пользователя ввести его возраст и секретный код.
+Если возраст больше или равен 18, И при этом код — "OPEN", выведите "Вход разрешен!".
+В противном случае выведите "Вам сегодня не повезло, вход запрещен.".
+*/
 public class Task5 {
     static void main() {
         Scanner console = new Scanner(System.in);

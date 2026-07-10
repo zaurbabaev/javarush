@@ -1,8 +1,15 @@
-package az.babayev.javarush.exercise.level3.task8;
+package az.babayev.javarush.exercise.level3;
 
 import java.util.Scanner;
 
-public class Solution {
+/*
+Вы создаёте программу лояльности, которая определяет размер скидки.
+Попросите пользователя ввести возраст и ответить, есть ли у него клубная карта (ответом "да" или "нет").
+Если возраст больше или равен 65, программа должна вывести «Ваша скидка: 20%.»
+Если возраст меньше 65, но у пользователя есть клубная карта, программа должна вывести «Ваша скидка: 10%.»
+В остальных случаях программа должна вывести «Скидки нет.»
+*/
+public class Task8 {
     public static void main(String[] args) {
         // Создаем объект Scanner для ввода данных с клавиатуры
         Scanner console = new Scanner(System.in);

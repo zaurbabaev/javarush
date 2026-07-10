@@ -1,8 +1,13 @@
-package az.babayev.javarush.exercise.level3.task6;
+package az.babayev.javarush.exercise.level3;
 
 import java.util.Scanner;
 
-public class Solution {
+/*
+Вы разрабатываете систему входа в эксклюзивный клуб. Попросите пользователя ввести его возраст и город.
+Если возраст больше или равен 21, И при этом город — "Минск", выведите "Добро пожаловать в клуб, Минск!".
+В противном случае выведите "Извините, вход запрещен.".
+*/
+public class Task6 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
 

@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Solution {
+public class Task6 {
     public static void main(String[] args) {
         // Создаем объект Scanner для ввода данных с клавиатуры
         Scanner console = new Scanner(System.in);

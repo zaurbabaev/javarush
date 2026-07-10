@@ -1,8 +1,16 @@
-package az.babayev.javarush.exercise.level3.task7;
+package az.babayev.javarush.exercise.level3;
 
 import java.util.Scanner;
 
-public class Solution {
+/*
+Вы — организатор конференции и проверяете тип приглашения. Попросите пользователя ввести его возраст и код приглашения.
+Если возраст больше или равен 21:
+Если код — "VIP", выведите "Доступ к VIP-залу разрешен.".
+Если код — "GUEST", выведите "Гостевой доступ разрешен.".
+Иначе выведите "Неверный код приглашения.".
+Если возраст меньше 21, выведите "К сожалению, только с 21 года.".
+*/
+public class Task7 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
 
